@@ -1,0 +1,55 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/xGJalyI.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 7,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome to NFCS",
+                    "text1": "Hello and welcome to Neebs Family Community's Ark Server Cluster!Explore, level up, tame all the things and have fun! Remember to respect other community members and always follow NFCS rules. Please join our Discord at discord.gg/NFCS and join the Ark Ascended role to keep informed of server changes, outages, or create a support ticket in case any issues arise. We strive to give you one of the best player experiences around so if you're not happy, we're not happy! Be kind to each other and #WorldPeace!",
+                    "imageurl": "https://i.imgur.com/xGJalyI.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Rules",
+                    "title1": "Rules:",
+                    "text1": "No racist, hate speech, homophobic speech or images will be tolerated. No uncivilized political discussions,  be respectful and courteous No bullying, no trolling, no harassment. If you can't be a decent human being and/or you don't play well with others.... this is not the community for you Do not build on spawns or resource areas. Do not block Points Of Interest (POIs) or access to game drops, nests, artifact and loot crate spawns Do not drop wild fertilized eggs (eg. Wyvern, Deino, Magmasaur, Rock Drake) in the world. These must be destroyed or NEW NESTS WILL NOT spawn. Please eat them (they're yummy) Offline mating is prohibited, turn off mating before you log off, offending dinos may be claimed by admin or destroyed Keep it tidy, do not leave unattended dinos at any community center or scattered throughout the map.  Also, cryo/orb unused dinos, lawn ornaments are nice, but we share a server with other players and all those dinos put strain on the server causing lag. No foundation, pillar, gate or land claiming of any kind. Violations WILL be removed without notice No kiting NPCs into bases or griefing players. This includes picking up players or others dinos with tames without permission, or leaving tames in and around other players bases. Do not advertise your Discord or other  servers without prior admin approval, you may advertise your creator content in the appropriate discord channels only. DO NOT SELL, give away or breed Patreon rewards on any of the servers without prior admin approval Patreon dinos claimed from decayed bases can and will be repossessed without notice Community Center located at 85.05 56.32 or Community Center Teleporter These stations are provided by admins to give you a leg up in your Ark adventures Pin can be obtained by doing !pin in discord"             
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/nfcs"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Patreon",
+                    "url": "https://www.patreon.com/neebsfamilycommunityservers"
+                }
+            },
+            {
+                "link3": {
+                    "text": "Neebs Gaming",
+                    "url": "https://www.neebsflix.com"
+                }
+            }
+        ]
+    }
+}
