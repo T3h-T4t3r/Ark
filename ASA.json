@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "Welcome",
                     "title1": "Welcome to NFCS",
-                    "text1": "<RichColor Color=1>Hello and welcome to Neebs Family Community's Ark Server Cluster! Explore, level up, tame all the things and have fun! Remember to respect other community members and always follow NFCS rules. Please join our Discord at discord.gg/NFCS and join the Ark Ascended role to keep informed of server changes, outages, or create a support ticket in case any issues arise. We strive to give you one of the best player experiences around so if you're not happy, we're not happy! Be kind to each other and WorldPeace!</>",
+                    "text1": "<RichColor Color=1,0,0,1>Hello and welcome to Neebs Family Community's Ark Server Cluster! Explore, level up, tame all the things and have fun! Remember to respect other community members and always follow NFCS rules. Please join our Discord at discord.gg/NFCS and join the Ark Ascended role to keep informed of server changes, outages, or create a support ticket in case any issues arise. We strive to give you one of the best player experiences around so if you're not happy, we're not happy! Be kind to each other and WorldPeace!</>",
                     "imageurl": "https://i.imgur.com/xGJalyI.png"
                 }
             },
